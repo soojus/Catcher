@@ -1,0 +1,110 @@
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:124:15:TfLitePadding tflite::{anonymous}::ConvertPadding(tflite::Padding)	2
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:79:14:TfLiteStatus tflite::{anonymous}::FlatBufferIntVectorToArray(int, const flatbuffers::Vector<long int>*, int*, tflite::ErrorReporter*, const char*)	4
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:43:10:void tflite::{anonymous}::SafeBuiltinDataAllocator::BuiltinDataDeleter::operator()(void*)	1
+../Middlewares/tensorflow/third_party/flatbuffers/include/flatbuffers/table.h:35:13:flatbuffers::voffset_t flatbuffers::Table::GetOptionalFieldOffset(flatbuffers::voffset_t) const	2
+../Middlewares/tensorflow/tensorflow/lite/schema/schema_generated.h:11893:15:const void* tflite::Operator::builtin_options() const	2
+../Middlewares/tensorflow/tensorflow/lite/kernels/op_macros.h:24:13:void AbortImpl()	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:67:6:void tflite::{anonymous}::CheckParsePointerParams(const tflite::Operator*, tflite::ErrorReporter*, tflite::BuiltinDataAllocator*, void**)	4
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:911:14:TfLiteStatus tflite::ConvertTensorType(TensorType, TfLiteType*, ErrorReporter*)	19
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:979:14:TfLiteStatus tflite::ParseAbs(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1009:14:TfLiteStatus tflite::ParseAddN(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1067:14:TfLiteStatus tflite::ParseAssignVariable(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1096:14:TfLiteStatus tflite::ParseBatchToSpaceNd(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1104:14:TfLiteStatus tflite::ParseBroadcastArgs(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1112:14:TfLiteStatus tflite::ParseBroadcastTo(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1168:14:TfLiteStatus tflite::ParseCeil(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1254:14:TfLiteStatus tflite::ParseCos(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1323:14:TfLiteStatus tflite::ParseDequantize(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1346:14:TfLiteStatus tflite::ParseElu(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1354:14:TfLiteStatus tflite::ParseEmbeddingLookup(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1362:14:TfLiteStatus tflite::ParseEqual(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1370:14:TfLiteStatus tflite::ParseExp(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1378:14:TfLiteStatus tflite::ParseExpandDims(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1386:14:TfLiteStatus tflite::ParseFill(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1394:14:TfLiteStatus tflite::ParseFloor(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1402:14:TfLiteStatus tflite::ParseFloorDiv(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1410:14:TfLiteStatus tflite::ParseFloorMod(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1485:14:TfLiteStatus tflite::ParseGatherNd(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1493:14:TfLiteStatus tflite::ParseGreater(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1501:14:TfLiteStatus tflite::ParseGreaterEqual(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1509:14:TfLiteStatus tflite::ParseHardSwish(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1584:14:TfLiteStatus tflite::ParseLess(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1592:14:TfLiteStatus tflite::ParseLessEqual(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1600:14:TfLiteStatus tflite::ParseLog(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1608:14:TfLiteStatus tflite::ParseLogicalAnd(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1616:14:TfLiteStatus tflite::ParseLogicalNot(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1624:14:TfLiteStatus tflite::ParseLogicalOr(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1632:14:TfLiteStatus tflite::ParseLogistic(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1640:14:TfLiteStatus tflite::ParseLogSoftmax(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1682:14:TfLiteStatus tflite::ParseMaximum(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1690:14:TfLiteStatus tflite::ParseMinimum(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1748:14:TfLiteStatus tflite::ParseNeg(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1756:14:TfLiteStatus tflite::ParseNotEqual(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1789:14:TfLiteStatus tflite::ParsePad(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1797:14:TfLiteStatus tflite::ParsePadV2(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1835:14:TfLiteStatus tflite::ParsePow(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1843:14:TfLiteStatus tflite::ParsePrelu(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1851:14:TfLiteStatus tflite::ParseQuantize(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1859:14:TfLiteStatus tflite::ParseReadVariable(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1893:14:TfLiteStatus tflite::ParseRelu(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1901:14:TfLiteStatus tflite::ParseRelu6(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2000:14:TfLiteStatus tflite::ParseRound(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2008:14:TfLiteStatus tflite::ParseRsqrt(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2016:14:TfLiteStatus tflite::ParseSelectV2(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2047:14:TfLiteStatus tflite::ParseSin(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2055:14:TfLiteStatus tflite::ParseSlice(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2088:14:TfLiteStatus tflite::ParseSpaceToBatchNd(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2227:14:TfLiteStatus tflite::ParseSqrt(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2235:14:TfLiteStatus tflite::ParseSquare(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2243:14:TfLiteStatus tflite::ParseSquaredDifference(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2334:14:TfLiteStatus tflite::ParseTanh(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2342:14:TfLiteStatus tflite::ParseTranspose(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2460:14:TfLiteStatus tflite::ParseZerosLike(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2468:14:TfLiteStatus tflite::ParseBitwiseXor(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2476:14:TfLiteStatus tflite::ParseRightShift(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2481:14:TfLiteStatus tflite::ParseOpData(const Operator*, BuiltinOperator, ErrorReporter*, BuiltinDataAllocator*, void**)	1
+../Middlewares/tensorflow/third_party/flatbuffers/include/flatbuffers/table.h:45:26:T flatbuffers::Table::GetField(flatbuffers::voffset_t, T) const [with T = unsigned char]	2
+../Middlewares/tensorflow/tensorflow/lite/schema/schema_generated.h:11890:26:tflite::BuiltinOptions tflite::Operator::builtin_options_type() const	1
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1906:14:TfLiteStatus tflite::ParseReshape(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	5
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2191:14:TfLiteStatus tflite::ParseSqueeze(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	5
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2401:14:TfLiteStatus tflite::ParseVarHandle(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	5
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1075:14:TfLiteStatus tflite::ParseBatchMatMul(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1236:14:TfLiteStatus tflite::ParseCumsum(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1864:14:TfLiteStatus tflite::ParseReducer(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1943:14:TfLiteStatus tflite::ParseResizeBilinear(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1970:14:TfLiteStatus tflite::ParseResizeNearestNeighbor(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/third_party/flatbuffers/include/flatbuffers/table.h:45:26:T flatbuffers::Table::GetField(flatbuffers::voffset_t, T) const [with T = long int]	2
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1117:14:TfLiteStatus tflite::ParseCallOnce(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1259:14:TfLiteStatus tflite::ParseDepthToSpace(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1464:14:TfLiteStatus tflite::ParseGather(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1514:14:TfLiteStatus tflite::ParseIf(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1761:14:TfLiteStatus tflite::ParsePack(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2093:14:TfLiteStatus tflite::ParseSpaceToDepth(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2118:14:TfLiteStatus tflite::ParseSplit(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2142:14:TfLiteStatus tflite::ParseSplitV(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2248:14:TfLiteStatus tflite::ParseStridedSlice(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2376:14:TfLiteStatus tflite::ParseUnpack(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2432:14:TfLiteStatus tflite::ParseWhile(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/third_party/flatbuffers/include/flatbuffers/table.h:45:26:T flatbuffers::Table::GetField(flatbuffers::voffset_t, T) const [with T = signed char]	2
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:984:14:TfLiteStatus tflite::ParseAdd(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1014:14:TfLiteStatus tflite::ParseArgMax(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	4
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1039:14:TfLiteStatus tflite::ParseArgMin(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	4
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1147:14:TfLiteStatus tflite::ParseCast(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	5
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1173:14:TfLiteStatus tflite::ParseConcatenation(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1202:14:TfLiteStatus tflite::ParseConv2D(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1284:14:TfLiteStatus tflite::ParseDepthwiseConv2D(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1328:14:TfLiteStatus tflite::ParseDiv(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1415:14:TfLiteStatus tflite::ParseFullyConnected(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	5
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1538:14:TfLiteStatus tflite::ParseL2Normalization(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1695:14:TfLiteStatus tflite::ParseMirrorPad(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1721:14:TfLiteStatus tflite::ParseMul(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1802:14:TfLiteStatus tflite::ParsePool(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2021:14:TfLiteStatus tflite::ParseShape(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	4
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2279:14:TfLiteStatus tflite::ParseSub(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2304:14:TfLiteStatus tflite::ParseSvdf(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2347:14:TfLiteStatus tflite::ParseTransposeConv(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/third_party/flatbuffers/include/flatbuffers/table.h:45:26:T flatbuffers::Table::GetField(flatbuffers::voffset_t, T) const [with T = float]	2
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1565:14:TfLiteStatus tflite::ParseLeakyRelu(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:1645:14:TfLiteStatus tflite::ParseLSTM(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	5
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2060:14:TfLiteStatus tflite::ParseSoftmax(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3
+../Middlewares/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.cc:2166:14:TfLiteStatus tflite::ParseUnidirectionalSequenceLSTM(const Operator*, ErrorReporter*, BuiltinDataAllocator*, void**)	3

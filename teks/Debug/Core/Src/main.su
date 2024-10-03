@@ -1,0 +1,16 @@
+../Core/Src/main.c:1799:9:OV5640_I2C_Init	0	static
+../Core/Src/main.c:1784:6:XferCpltCallback	16	static
+../Core/Src/main.c:1792:6:XferM1CpltCallback	16	static
+../Core/Src/main.c:1813:9:OV5640_I2C_WriteReg	48	static
+../Core/Src/main.c:1827:9:OV5640_I2C_ReadReg	32	static
+../Core/Src/main.c:1832:9:OV5640_GetTick	0	static
+../Core/Src/main.c:1803:9:OV5640_I2C_DeInit	0	static
+../Core/Src/main.c:295:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/main.c:352:6:PeriphCommonClock_Config	144	static,ignoring_inline_asm
+../Core/Src/main.c:178:5:main	184	static,ignoring_inline_asm
+../Core/Src/main.c:1837:6:OV5640_Delay	0	static
+../Core/Src/main.c:1844:6:chek_all_i2c	64	static
+../Core/Src/main.c:1877:6:StartDefaultTask	48	static
+../Core/Src/main.c:1862:6:HAL_DCMI_VsyncEventCallback	0	static
+../Core/Src/main.c:1988:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:2005:6:Error_Handler	0	static,ignoring_inline_asm

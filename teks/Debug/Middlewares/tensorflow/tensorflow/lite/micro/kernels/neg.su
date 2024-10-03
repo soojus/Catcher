@@ -1,0 +1,4 @@
+../Middlewares/tensorflow/tensorflow/lite/kernels/op_macros.h:24:13:void AbortImpl()	8	static
+../Middlewares/tensorflow/tensorflow/lite/micro/kernels/neg.cc:53:23:TfLiteRegistration_V1 tflite::Register_NEG()	16	static
+../Middlewares/tensorflow/tensorflow/lite/kernels/internal/reference/neg.h:25:13:void tflite::reference_ops::Negate(const tflite::RuntimeShape&, const T*, const tflite::RuntimeShape&, T*) [with T = float]	24	static
+../Middlewares/tensorflow/tensorflow/lite/micro/kernels/neg.cc:30:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	72	static

@@ -1,0 +1,6 @@
+../Middlewares/tensorflow/third_party/cmsis_nn/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:62:9:arm_convolve_s8_get_buffer_size	1
+../Middlewares/tensorflow/third_party/cmsis_nn/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:71:9:arm_convolve_1_x_n_s8_get_buffer_size	1
+../Middlewares/tensorflow/third_party/cmsis_nn/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:80:9:arm_convolve_1x1_s8_fast_get_buffer_size	1
+../Middlewares/tensorflow/third_party/cmsis_nn/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:93:9:arm_convolve_wrapper_s8_get_buffer_size	11
+../Middlewares/tensorflow/third_party/cmsis_nn/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:126:9:arm_convolve_wrapper_s8_get_buffer_size_mve	12
+../Middlewares/tensorflow/third_party/cmsis_nn/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:154:9:arm_convolve_wrapper_s8_get_buffer_size_dsp	11

@@ -1,0 +1,8 @@
+Middlewares/tensorflow/third_party/cmsis_nn/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.o: \
+ ../Middlewares/tensorflow/third_party/cmsis_nn/Source/FullyConnectedFunctions/arm_fully_connected_get_buffer_sizes_s8.c \
+ C:/tensor/teks/Middlewares/tensorflow/third_party/cmsis_nn/Include/arm_nnfunctions.h \
+ C:/tensor/teks/Middlewares/tensorflow/third_party/cmsis_nn/Include/arm_nn_math_types.h \
+ C:/tensor/teks/Middlewares/tensorflow/third_party/cmsis_nn/Include/arm_nn_types.h
+C:/tensor/teks/Middlewares/tensorflow/third_party/cmsis_nn/Include/arm_nnfunctions.h:
+C:/tensor/teks/Middlewares/tensorflow/third_party/cmsis_nn/Include/arm_nn_math_types.h:
+C:/tensor/teks/Middlewares/tensorflow/third_party/cmsis_nn/Include/arm_nn_types.h:

@@ -1,0 +1,7 @@
+../Middlewares/tensorflow/tensorflow/lite/kernels/op_macros.h:24:13:void AbortImpl()	1
+../Middlewares/tensorflow/tensorflow/lite/micro/kernels/slice.cc:47:14:TfLiteStatus tflite::{anonymous}::Prepare(TfLiteContext*, TfLiteNode*)	18
+../Middlewares/tensorflow/tensorflow/lite/kernels/internal/runtime_shape.h:65:11:int32_t tflite::RuntimeShape::Dims(int) const	2
+../Middlewares/tensorflow/tensorflow/lite/kernels/internal/runtime_shape.h:107:3:tflite::RuntimeShape::RuntimeShape(int, const tflite::RuntimeShape&, int)	3
+../Middlewares/tensorflow/tensorflow/lite/kernels/internal/runtime_shape.h:145:12:int tflite::Offset(const RuntimeShape&, int, int, int, int, int)	21
+../Middlewares/tensorflow/tensorflow/lite/micro/kernels/slice.cc:84:14:TfLiteStatus tflite::{anonymous}::Eval(TfLiteContext*, TfLiteNode*)	51
+../Middlewares/tensorflow/tensorflow/lite/micro/kernels/slice.cc:160:23:TfLiteRegistration_V1 tflite::Register_SLICE()	1
